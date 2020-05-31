@@ -3,7 +3,8 @@
 ## Data
 `loc2props.csv.zip`
 
-## Citation
+## Paper
+Link: https://www.aclweb.org/anthology/W19-4502/
 ```
 @inproceedings{jo-etal-2019-cascade,
     title = "A Cascade Model for Proposition Extraction in Argumentation",
