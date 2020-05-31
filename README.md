@@ -1,7 +1,7 @@
 # A Cascade Model for Proposition Extraction in Argumentation
 
 ## Data
-`loc2props.csv.zip`
+`data/loc2props.csv.zip`
 
 ## Paper
 Link: https://www.aclweb.org/anthology/W19-4502/
